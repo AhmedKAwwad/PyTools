@@ -6,6 +6,6 @@ Colons can be used to align columns.
 
 | Problems      | Tools         | Description && output  |
 | ------------- |:-------------:| -----:|
-| Suspucious file type and size      | file filename.fileExtention | will get file type and should be matched with the written one \ ex: README.md: ASCII text |
+| Suspucious file type and size      | file filename.fileExtention | will get file type and should be matched with the written one <br> ex: README.md: ASCII text |
 | unknown file content or (hex content of txt) or to check any hidden strings inside the file content      | strings FileName.fileExt \| more      |   $12 |
 | zebra stripes | are neat      |    $1 |
